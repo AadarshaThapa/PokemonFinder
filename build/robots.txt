@@ -1,0 +1,14 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /search
+Disallow: /user/
+
+Allow: /pokemon/
+Allow: /about
+
+Allow: /static/
+Allow: /images/
+Allow: /styles/
+Allow: /scripts/
